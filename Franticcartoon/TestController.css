@@ -1,10 +1,10 @@
 .controller.custom{
-    background: url(https://raw.githubusercontent.com/BobbyTheo/BobbyTheo.github.io/master/img/base.png); /*Base*/
+    background: url(https://raw.githubusercontent.com/BobbyTheo/BobbyTheo.github.io/master/Franticcartoon/img/base.png); /*Base*/
     height: 598px;
     width: 806px;
 }
 .custom.disconnected {
-    background: url(https://raw.githubusercontent.com/BobbyTheo/BobbyTheo.github.io/master/img/disconnected.png); /*Disconnected*/
+    background: url(https://raw.githubusercontent.com/BobbyTheo/BobbyTheo.github.io/master/Franticcartoon/img/disconnected.png); /*Disconnected*/
 }
 .custom.disconnected div {
     display: none;
@@ -18,7 +18,7 @@
 .custom .trigger{
     width: 99px;
     height: 100%;
-    background: url(https://raw.githubusercontent.com/BobbyTheo/BobbyTheo.github.io/master/img/triggers.png); /*Triggers*/
+    background: url(https://raw.githubusercontent.com/BobbyTheo/BobbyTheo.github.io/master/Franticcartoon/img/triggers.png); /*Triggers*/
     opacity: 0;
 }
 .custom .trigger.left{
@@ -31,7 +31,7 @@
 .custom .bumper{
     width: 99px;
     height: 23px;
-    background: url(https://raw.githubusercontent.com/BobbyTheo/BobbyTheo.github.io/master/img/bumper.png) no-repeat; /*Bumper*/
+    background: url(https://raw.githubusercontent.com/BobbyTheo/BobbyTheo.github.io/master/Franticcartoon/img/bumper.png) no-repeat; /*Bumper*/
     opacity: 0;
 }
 .custom .bumpers{
@@ -59,7 +59,7 @@
     top: 122px;
 }
 .custom .touchpad.pressed {
-    background: url(https://raw.githubusercontent.com/BobbyTheo/BobbyTheo.github.io/master/img/touchpad.png) no-repeat center;
+    background: url(https://raw.githubusercontent.com/BobbyTheo/BobbyTheo.github.io/master/Franticcartoon/img/touchpad.png) no-repeat center;
 }
 .custom .meta {
     width: 42px;
@@ -69,7 +69,7 @@
     bottom: 216px;
 }
 .custom .meta.pressed {
-    background: url(https://raw.githubusercontent.com/BobbyTheo/BobbyTheo.github.io/master/img/meta.png) no-repeat center; /*Meta*/
+    background: url(https://raw.githubusercontent.com/BobbyTheo/BobbyTheo.github.io/master/Franticcartoon/img/meta.png) no-repeat center; /*Meta*/
 }
 .custom .arrows {
     position: absolute;
@@ -79,7 +79,7 @@
     left: 227px;
 }
 .custom .back, .custom .start{
-    background: url(https://raw.githubusercontent.com/BobbyTheo/BobbyTheo.github.io/master/img/start.png); /*Start*/
+    background: url(https://raw.githubusercontent.com/BobbyTheo/BobbyTheo.github.io/master/Franticcartoon/img/start.png); /*Start*/
     width: 28px;
     height: 46px;
     opacity: 0;
@@ -109,7 +109,7 @@
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(https://raw.githubusercontent.com/BobbyTheo/BobbyTheo.github.io/master/img/face.png); //Face
+    background: url(https://raw.githubusercontent.com/BobbyTheo/BobbyTheo.github.io/master/Franticcartoon/img/face.png); //Face
 }
 .custom .button.pressed{
     background-position-y: 55px;
@@ -142,7 +142,7 @@
 }
 .custom .stick{
     position: absolute;
-    background: url(https://raw.githubusercontent.com/BobbyTheo/BobbyTheo.github.io/master/img/sticks.png); /*Sticks*/
+    background: url(https://raw.githubusercontent.com/BobbyTheo/BobbyTheo.github.io/master/Franticcartoon/img/sticks.png); /*Sticks*/
     height: 94px;
     width: 94px;
 }
@@ -168,7 +168,7 @@
     left: 92px;
 }
 .custom .face{
-    background: url(https://raw.githubusercontent.com/BobbyTheo/BobbyTheo.github.io/master/img/dpad.png); /*Dpad*/
+    background: url(https://raw.githubusercontent.com/BobbyTheo/BobbyTheo.github.io/master/Franticcartoon/img/dpad.png); /*Dpad*/
     position: absolute;
 }
 .custom .face.up, .custom .face.down{

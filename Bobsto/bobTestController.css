@@ -1,10 +1,10 @@
 .controller.custom{
-    background: url(https://raw.githubusercontent.com/BobbyTheo/BobbyTheo.github.io/master/img/bobbase.png); /*Base*/
+    background: url(https://raw.githubusercontent.com/BobbyTheo/BobbyTheo.github.io/master/bobsto/img/bobbase.png); /*Base*/
     height: 598px;
     width: 806px;
 }
 .custom.disconnected {
-    background: url(https://raw.githubusercontent.com/BobbyTheo/BobbyTheo.github.io/master/img/bobdisconnected.png); /*Disconnected*/
+    background: url(https://raw.githubusercontent.com/BobbyTheo/BobbyTheo.github.io/master/bobsto/img/bobdisconnected.png); /*Disconnected*/
 }
 .custom.disconnected div {
     display: none;
@@ -18,7 +18,7 @@
 .custom .trigger{
     width: 99px;
     height: 100%;
-    background: url(https://raw.githubusercontent.com/BobbyTheo/BobbyTheo.github.io/master/img/bobtriggers.png); /*Triggers*/
+    background: url(https://raw.githubusercontent.com/BobbyTheo/BobbyTheo.github.io/master/bobsto/img/bobtriggers.png); /*Triggers*/
     opacity: 0;
 }
 .custom .trigger.left{
@@ -31,7 +31,7 @@
 .custom .bumper{
     width: 99px;
     height: 23px;
-    background: url(https://raw.githubusercontent.com/BobbyTheo/BobbyTheo.github.io/master/img/bobbumper.png) no-repeat; /*Bumper*/
+    background: url(https://raw.githubusercontent.com/BobbyTheo/BobbyTheo.github.io/master/bobsto/img/bobbumper.png) no-repeat; /*Bumper*/
     opacity: 0;
 }
 .custom .bumpers{
@@ -59,7 +59,7 @@
     top: 122px;
 }
 .custom .touchpad.pressed {
-    background: url(https://raw.githubusercontent.com/BobbyTheo/BobbyTheo.github.io/master/img/bobtouchpad.png) no-repeat center;
+    background: url(https://raw.githubusercontent.com/BobbyTheo/BobbyTheo.github.io/master/bobsto/img/bobtouchpad.png) no-repeat center;
 }
 .custom .meta {
     width: 42px;
@@ -69,7 +69,7 @@
     bottom: 216px;
 }
 .custom .meta.pressed {
-    background: url(https://raw.githubusercontent.com/BobbyTheo/BobbyTheo.github.io/master/img/bobmeta.png) no-repeat center; /*Meta*/
+    background: url(https://raw.githubusercontent.com/BobbyTheo/BobbyTheo.github.io/master/bobsto/img/bobmeta.png) no-repeat center; /*Meta*/
 }
 .custom .arrows {
     position: absolute;
@@ -79,7 +79,7 @@
     left: 227px;
 }
 .custom .back, .custom .start{
-    background: url(https://raw.githubusercontent.com/BobbyTheo/BobbyTheo.github.io/master/img/bobstart.png); /*Start*/
+    background: url(https://raw.githubusercontent.com/BobbyTheo/BobbyTheo.github.io/master/bobsto/img/bobstart.png); /*Start*/
     width: 28px;
     height: 46px;
     opacity: 0;
@@ -109,7 +109,7 @@
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(https://raw.githubusercontent.com/BobbyTheo/BobbyTheo.github.io/master/img/bobface.png); //Face
+    background: url(https://raw.githubusercontent.com/BobbyTheo/BobbyTheo.github.io/master/bobsto/img/bobface.png); //Face
 }
 .custom .button.pressed{
     background-position-y: 55px;
@@ -142,7 +142,7 @@
 }
 .custom .stick{
     position: absolute;
-    background: url(https://raw.githubusercontent.com/BobbyTheo/BobbyTheo.github.io/master/img/bobsticks.png); /*Sticks*/
+    background: url(https://raw.githubusercontent.com/BobbyTheo/BobbyTheo.github.io/master/bobsto/img/bobsticks.png); /*Sticks*/
     height: 94px;
     width: 94px;
 }
@@ -168,7 +168,7 @@
     left: 92px;
 }
 .custom .face{
-    background: url(https://raw.githubusercontent.com/BobbyTheo/BobbyTheo.github.io/master/img/bobdpad.png); /*Dpad*/
+    background: url(https://raw.githubusercontent.com/BobbyTheo/BobbyTheo.github.io/master/bobsto/img/bobdpad.png); /*Dpad*/
     position: absolute;
 }
 .custom .face.up, .custom .face.down{
